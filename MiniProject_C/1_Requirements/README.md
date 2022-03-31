@@ -6,13 +6,22 @@ Cricket Score Sheet project is a simple project built using the C programming la
 
  
 #The program can display 
-   .Runs 
+
+   .Runs
+   
    .wickets, overs, extras
-   .economy of bowler 
+   
+   .economy of bowler
+   
    .run rate of batting team
+	 
    .final result is win ,loss or draw
    
  #details
+ 
     .N---->NO ball
+		
     .W---->Wide ball
+		
     .O---->out
+		
