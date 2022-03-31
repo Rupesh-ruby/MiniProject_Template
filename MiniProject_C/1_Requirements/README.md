@@ -1,7 +1,17 @@
-# Requirements
+#Cricket Score Sheet
+Cricket Score Sheet project is a simple project built using the C programming language.
+ It uses file handling to store various information regarding runs, wickets, overs, extras, and many more.
 
-* Capture all the requirements wrt system, module, interface, integration, testing, Functional and Non-functional
-* Captures Basic Planning of the project through - Sample Gantt Chart attached
 
-* Tools: MS Excel, MS word or Similar
-
+ 
+#The program can display 
+   .Runs 
+   .wickets, overs, extras
+   .economy of bowler 
+   .run rate of batting team
+   .final result is win ,loss or draw
+   
+ #details
+    .N---->NO ball
+    .W---->Wide ball
+    .O---->out
