@@ -1,4 +1,13 @@
-# Project Information
+# Cricket Score Sheet
+* Cricket Score Sheet project is a simple project built using the C programming language. It uses file handling to store various information regarding runs, wickets, overs, extras, and many more.
 
-* Add a brief discription about the project
-* Add the information about extra folders or files added
+* The program can display
+  .Runs
+
+  .Wickets, overs, extras
+
+  .Economy of bowler
+
+  .Run rate of batting team
+
+  .Final result is Match win ,loss or draw
