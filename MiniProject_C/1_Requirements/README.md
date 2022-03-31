@@ -9,19 +9,19 @@
 
       .Runs
    
-      .wickets, overs, extras
+      .Wickets, overs, extras
    
-      .economy of bowler
+      .Economy of bowler
    
-      .run rate of batting team
- 	 
-     .final result is win ,loss or draw
+      .Run rate of batting team
+  
+      .Final result is Match win ,loss or draw
    
 # details
  
-    .N---->NO ball
+    * N---->NO ball
 		
-    .W---->Wide ball
+    * W---->Wide ball
 		
-    .O---->out
+    * O---->out
 		
