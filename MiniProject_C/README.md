@@ -4,10 +4,10 @@
 * The program can display
   .Runs
 
-  .Wickets, overs, extras
+  $ Wickets, overs, extras
 
-  .Economy of bowler
+  $ Economy of bowler
 
-  .Run rate of batting team
+  $ Run rate of batting team
 
-  .Final result is Match win ,loss or draw
+  $ Final result is Match win ,loss or draw
