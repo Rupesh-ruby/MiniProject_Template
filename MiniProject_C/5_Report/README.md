@@ -35,7 +35,32 @@ The C source code of this project is very simple and consists of seven user defi
 
 # CONCLUSION
 * EACH TEAM PLAY 5 MATCHES SERIES(2 OVERS) 
-* |TEAM|MATCHES|WIN|LOSS|NA|
-* |----|-------|---|----|--|
-* CSK|5|3|2|0
-* MI|5|2|3|0
+
+* CSK WIN 5 LOSS2 
+* MI WIN 2 LOSS3
+
+ **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual O/P** |**Type Of Test**  |    
+|-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
+|  H_01       |Check if code works as per the given test cases.              |  Valid I/P  |Valid O/P|Valid O/P|Scenario based |
+|  H_02       |Check for boundary conditions                                 |  Invalid I/P|Program termination|Program termination |Boundary based    |
+|  H_03       |Check for invalid choice                                      |  Invalid choice I/P|Wrong choice.Please choose again|Wrong choice.Please choose again|Scenario based    |
+|  H_04       |Check for valid choice                                        |  Valid I/P|Valid O/P|Valid O/P|Scenario based |
+
+
+
+## Low level test plan
+
+| **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual O/P** |**Type Of Test**  |    
+|-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
+|  L_01       |                         MATCH                           |  Integer value|Valid o/p|Valid o/p|Scenario based unit testing |
+|  L_02       |                 VERSUS                                 |  Integer value|Valid o/p|Valid o/p|Scenario based unit testing   |
+|  L_03       |               TOSS                               |  Integer value|Valid o/p|Valid o/p|Scenario based unit testing    |
+|  L_03       |                  OVERS                                 | Float value |Valid o/p|Valid o/p|Scenario based unit testing    |
+|  L_03       |                                                     |  Integer value|Valid o/p|Valid o/p|Scenario based unit testing    |
+|  L_03       | root                                                   |  Float value|Valid o/p|Valid o/p|Scenario based unit testing     |
+|  L_03       |OVERS COMPLETED                                                     |  Integer value|Valid o/p|Valid o/p|Scenario based unit testing    |
+|  L_03       |2ND INNINGS                                                     |  Float value|Valid o/p|Valid o/p|Scenario based unit testing    |
+|  L_03       |Exponential                                                   |  Float value|Valid o/p|Valid o/p|Scenario based unit testing     |
+|  L_03       |BREAK                                                   |  Float value|Valid o/p|Valid o/p|Scenario based unit testing     |
+|  L_03       |FINAL RESULT                                                      |  Integer value|Valid o/p|Valid o/p|Scenario based unit testing   |
+             
