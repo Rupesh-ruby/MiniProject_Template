@@ -56,7 +56,7 @@ The C source code of this project is very simple and consists of seven user defi
 |  L_02       |                 VERSUS                                 |  Integer value|Valid o/p|Valid o/p|Scenario based unit testing   |
 |  L_03       |               TOSS                               |  Integer value|Valid o/p|Valid o/p|Scenario based unit testing    |
 |  L_03       |                  OVERS                                 | Float value |Valid o/p|Valid o/p|Scenario based unit testing    |
-|  L_03       |                                                     |  Integer value|Valid o/p|Valid o/p|Scenario based unit testing    |
+|  L_03       |           INNING BREAK                                          |  Integer value|Valid o/p|Valid o/p|Scenario based unit testing    |
 |  L_03       | root                                                   |  Float value|Valid o/p|Valid o/p|Scenario based unit testing     |
 |  L_03       |OVERS COMPLETED                                                     |  Integer value|Valid o/p|Valid o/p|Scenario based unit testing    |
 |  L_03       |2ND INNINGS                                                     |  Float value|Valid o/p|Valid o/p|Scenario based unit testing    |
