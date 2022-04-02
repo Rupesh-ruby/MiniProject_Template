@@ -34,7 +34,8 @@ The C source code of this project is very simple and consists of seven user defi
 
 
 # CONCLUSION
-* EACH TEAM PLAY 3 MATCHES SERIES(2 OVERS) 
-* CSK WIN 1 LOSS 1 DRAW 1
-* MI WIN 1 LOSS 1 DRAW 1
-
+* EACH TEAM PLAY 5 MATCHES SERIES(2 OVERS) 
+* |TEAM|MATCHES|WIN|LOSS|NA|
+* |----|-------|---|----|--|
+* CSK|5|3|2|0
+* MI|5|2|3|0
